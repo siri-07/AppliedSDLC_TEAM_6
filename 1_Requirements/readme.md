@@ -25,12 +25,12 @@
 - A fitness tracker gives a visual of your progress and accomplishment each day.
 - It can be measure healthy diet. its very important to eat a healthy food.
 
-## Weakness
+## ▶️ Weakness
 - Some trackers do not provide 100% accurate.
 - Metrics/information that may be shown on the device. Some of that information is just an estimate.
 - try not to fully rely on these devices.
 
-## Opportunities
+## ▶️ Opportunities
 
 - Healthy Eating
 - Set goals
@@ -40,7 +40,7 @@
 
 
 
-## Threats
+## ▶️ Threats
 - Competition is growing in fitness ans health tech worldwide.
 - it may be not gives accurate result
 
