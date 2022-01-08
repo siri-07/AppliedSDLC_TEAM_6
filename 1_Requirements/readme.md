@@ -6,6 +6,7 @@
 
 ## ▶️ Features
 
+- BMI Calculator
 - Running
 - Water intake
 - Sleeping hours
