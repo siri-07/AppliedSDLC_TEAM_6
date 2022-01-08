@@ -69,10 +69,25 @@ The Fitness tracker serve for daily burned,exercises and water and food consumpt
 
 ## High Level Requirements
 
-
+| High Level Requirements |	Description |
+| ------------------------ | ----------- |
+| HLR1 |Monitoring hear rate |
+| HLR2 |Monitoring breathing  |
+|HLR3  |Tracking calories burnt |
+| HLR4 |Sleep tracking |
+| HLR5 |Watching cardio fitness levels| 
 
 
 ## Low Level Requirements
+
+| Low Level Requirements |	Description |
+| ---------------------- | ------------- |
+| LLR1 ||
+| LLR2 |  |
+| LLR3 |  |
+| LLR4 |   |
+| LLR5 |   |
+
 
 
 
