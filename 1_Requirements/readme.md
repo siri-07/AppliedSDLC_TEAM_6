@@ -62,7 +62,7 @@ The fitness tracker required for the User who put thier activity on the input.
 The Fitness tracker serve for daily burned,exercises and water and food consumption per day. 
 
 ## HOW
--This system is achieved by implementing the 
+- To get the diet plan user able to access the program using System or a laptop and put the required data for implement.
 
 
 # Detail requirements
