@@ -72,7 +72,7 @@ The Fitness tracker serve for daily burned,exercises and water and food consumpt
 
 | High Level Requirements |	Description |
 | ------------------------ | ----------- |
-| HLR1 |Check functionality of the BMI and BMR calculation module |
+| HLR1 |Check functionality of the BMI calculation module |
 | HLR2 |Check functionality of the Diet Plan and Calories intake module  |
 | HLR3 |Check functionality of the Water intake module |
 | HLR4 | Check functionality of the Workout module|
