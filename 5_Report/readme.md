@@ -12,7 +12,7 @@ workout hour
 Food consumption per day
 Work per day
 other
-SWOT- Strengths, and Weakness, Opportunities Threats
+## SWOT- Strengths, and Weakness, Opportunities Threats
  ## Strengths
  
 -Improve our body fitness. it gives daily basis health check up by calculating the features.
@@ -49,7 +49,7 @@ The Fitness tracker used for Body activity per day.
 The fitness tracker required for the User who put thier activity on the input.
 
 ## WHEN
-The Fitness tracker serve for daily burned,exercises and water and food consumption per day.
+The Fitness tracker serve for daily calories burned,exercises and water and food consumption per day.
 
 ## HOW
 -This system is achieved by implementing the
