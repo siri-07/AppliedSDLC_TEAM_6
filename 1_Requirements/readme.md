@@ -70,11 +70,12 @@ The Fitness tracker serve for daily burned,exercises and water and food consumpt
 
 | High Level Requirements |	Description | Status          |
 | ------------------------ | ----------- |----------------
-| HLR1 |Check functionality of the BMI calculation module | In progress  |
-| HLR2 |Check functionality of the Diet Plan and Calories intake module  | In progress|
-| HLR3 |Check functionality of the Water intake module | In progress|
-| HLR4 | Check functionality of the Workout module| In progress |
-| HLR5 |Check if the program fetches details of existing Customer|In progress |
+| HLR1 |Check functionality of the BMI calculation module | Implemented  |
+| HLR2 |Check functionality of the Diet Plan and Calories intake module  | Implemented|
+| HLR3 |Check functionality of the Water intake module | Implemented|
+| HLR4 | Check functionality of the Workout module| In Implemented |
+| HLR5 |Check if the program fetches details of existing Customer|Implemented |
+| HLR6 |Check for user login and also check password|Implemented |
 
 
 ## Low Level Requirements
