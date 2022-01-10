@@ -6,13 +6,11 @@
 
 ## ▶️ Features
 - User Login
-- BMI Calculator
-- Water intake
-- Sleeping hours
-- workout hour
-- Food consumption per day
-- other
-
+- Workout
+- BMI
+- WaterIntake
+- BMR
+- CalorieBurnedApprox
 
 
 # SWOT- Strengths, and Weakness, Opportunities Threats
