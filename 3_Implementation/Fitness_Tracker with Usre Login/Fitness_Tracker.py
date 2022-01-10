@@ -145,6 +145,7 @@ def approxCalorieBurned():
         print('Calorie need to burn for maintaining weight :', value * 1.725)
     if (exercise == 5):
         print('Calorie need to burn for maintaining weight :', value * 1.9)
-
+    
+    approxCalorieBurned()
 
 fitnessTracker()
