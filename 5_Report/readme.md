@@ -52,20 +52,25 @@ The fitness tracker required for the User who put thier activity on the input.
 The Fitness tracker serve for daily calories burned,exercises and water and food consumption per day.
 
 ## HOW
--This system is achieved by implementing the
+- To get the diet plan user able to access the program using System or a laptop and put the required data for implement.
+
+# Software used
+- [vscode](https://code.visualstudio.com/) & 
+
+- [DEVC++](https://sourceforge.net/projects/orwelldevcpp/)
+
 
 # Detail requirements
-
-
 ## High Level Requirements
 
 | High Level Requirements |	Description | Status          |
-| ------------------------ | ----------- |----------------
-| HLR1 |Check functionality of the BMI calculation module | In progress  |
-| HLR2 |Check functionality of the Diet Plan and Calories intake module  | In progress|
-| HLR3 |Check functionality of the Water intake module | In progress|
-| HLR4 | Check functionality of the Workout module| In progress |
-| HLR5 |Check if the program fetches details of existing Customer|In progress |
+| ------------------------ | ----------- |---------------- |
+| HLR1 | Check the user id and Password                                  | In progress |
+| HLR2 |Check functionality of the BMI calculation module                | In progress |
+| HLR3 |Check functionality of the Diet Plan and Calories intake module  | In progress |
+| HLR4 |Check functionality of the Water intake module                   | In progress |
+| HLR5 | Check functionality of the Workout module                       | In progress |
+| HLR6 |Check if the program fetches details of existing Customer        | In progress |
 
 
 ## Low Level Requirements
