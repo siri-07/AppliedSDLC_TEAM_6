@@ -58,17 +58,23 @@ The Fitness tracker serve for daily burned,exercises and water and food consumpt
 
 
 ## High Level Requirements
-|High Level Requirements|	Description| Status      |
-|------------------------|------------|------------|
-|HLR1|
-|HLR2|
-|HLR3|	
-|HLR4|	
-|HLR5|	
-## Low Level Requirements
-|Low Level Requirements|	Description|
-|--------------------- |------------- |
-|LLR1	||
-|LLR2	|
-|LLR3|	
 
+| High Level Requirements |	Description | Status          |
+| ------------------------ | ----------- |----------------
+| HLR1 |Check functionality of the BMI calculation module | In progress  |
+| HLR2 |Check functionality of the Diet Plan and Calories intake module  | In progress|
+| HLR3 |Check functionality of the Water intake module | In progress|
+| HLR4 | Check functionality of the Workout module| In progress |
+| HLR5 |Check if the program fetches details of existing Customer|In progress |
+
+
+## Low Level Requirements
+
+
+| Low Level Requirements |	Description | Status |
+| ---------------------- | ------------- |---------------------------------------|
+| LLR1 |Check if Customer is able to choose between Imperial and SI unit system  | In progress |
+| LLR2 |Check if Customer is alerted when height or weight exceeds the limit given  | In progress|
+| LLR3 |Check if Customer falls under correct weight category for BMI index   | In progress|
+| LLR4 |Check if Customer is able to choose gender    | In progress|
+| LLR5 | Check if Customer is alerted when weight or height exceeds limit  | In progress|
