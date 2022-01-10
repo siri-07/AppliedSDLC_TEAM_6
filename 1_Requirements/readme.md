@@ -84,8 +84,8 @@ The Fitness tracker serve for daily burned,exercises and water and food consumpt
 
 | Low Level Requirements |	Description |
 | ---------------------- | ------------- |
-| LLR1 | Movement |
-| LLR2 | rotation |
+| LLR1 |  |
+| LLR2 |  |
 
 
 
