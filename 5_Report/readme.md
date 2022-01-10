@@ -58,8 +58,8 @@ The Fitness tracker serve for daily burned,exercises and water and food consumpt
 
 
 ## High Level Requirements
-|High Level Requirements|	Description|
-|------------------------|------------|
+|High Level Requirements|	Description| Status      |
+|------------------------|------------|------------|
 |HLR1|	Monitoring hear rate|
 |HLR2|	Monitoring breathing|
 |HLR3|	Tracking calories burnt|
