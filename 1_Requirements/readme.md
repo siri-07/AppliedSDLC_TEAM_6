@@ -1,4 +1,4 @@
-# REQUIREMENT
+# REQUIREMENTS
 
 ## Introduction
 
@@ -57,7 +57,7 @@ The Fitness tracker used for Body activity per day.
 The fitness tracker required for the User who put thier activity on the input.
 
 ## WHEN
-The Fitness tracker serve for daily burned,exercises and water and food consumption per day. 
+The Fitness tracker serve for daily calories burned,exercises and water and food consumption per day. 
 
 ## HOW
 - To get the diet plan user able to access the program using System or a laptop and put the required data for implement.
