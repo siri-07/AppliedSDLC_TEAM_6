@@ -83,11 +83,11 @@ The Fitness tracker serve for daily burned,exercises and water and food consumpt
 
 | Low Level Requirements |	Description | Status |
 | ---------------------- | ------------- |---------------------------------------|
-| LLR1 |Check if Customer is able to choose between Imperial and SI unit system  | In progress |
-| LLR2 |Check if Customer is alerted when height or weight exceeds the limit given  | In progress|
-| LLR3 |Check if Customer falls under correct weight category for BMI index   | In progress|
-| LLR4 |Check if Customer is able to choose gender    | In progress|
-| LLR5 | Check if Customer is alerted when weight or height exceeds limit  | In progress|
+| LLR1 |Check if Customer is able to choose between Imperial and SI unit system  | Implemented |
+| LLR2 |Check if Customer is alerted when height or weight exceeds the limit given  | Implemented|
+| LLR3 |Check if Customer falls under correct weight category for BMI index   | Implemented|
+| LLR4 |Check if Customer is able to choose gender    | Implemented|
+| LLR5 | Check if Customer is alerted when weight or height exceeds limit  | Implemented|
 
 
 
