@@ -21,7 +21,7 @@
 
 
 ## Contributors List 
-PS No.   | Name                 | GitHub Username   | Contribution |                  
+PS No.   | Name                 | GitHub Username   |                  
 ---------|----------------------|-------------------|
 40020733 |Nelluru Tejaswini     |Teju546            | 
 40020868 |Shreyashi Sonkar      |siri-07            |
