@@ -54,26 +54,27 @@ def getTime(type):
 def main():
     totalTime = [0, 0, 0]
     types = ['yoga', 'cardio', 'meditation']
-    days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
+    days = input("enter your day :")
 
-    for day in range(1, 8, 1):
-        print('Day -', days[day - 1])
-        for type in types:
-            time = getTime(type)
-            if type == 'yoga':
-                totalTime[0] += time
-            elif type == 'cardio':
-                totalTime[1] += time
-            else:
-                totalTime[2] += time
+    for type in types:
+        time = getTime(type)
+        if type == 'yoga':
+            totalTime[0] += time
+        elif type == 'cardio':
+            totalTime[1] += time
+        else:
+            totalTime[2] += time
 
-    if sum(totalTime) >= 3 * 20 * 7:
+
+
+
+    if sum(totalTime) >= 3 * 20 * 1:
         print('Your fitness score is 5 on scale of 5.0')
-    elif sum(totalTime) >= 3 * 20 * 7 * 0.8:
+    elif sum(totalTime) >= 3 * 20 * 1 * 0.8:
         print('Your fitness score is 4 on scale of 5.0')
-    elif sum(totalTime) >= 3 * 20 * 7 * 0.6:
+    elif sum(totalTime) >= 3 * 20 * 1 * 0.6:
         print('Your fitness score is 3 on scale of 5.0')
-    elif sum(totalTime) >= 3 * 20 * 7 * 0.4:
+    elif sum(totalTime) >= 3 * 20 * 1 * 0.4:
         print('Your fitness score is 2 on scale of 5.0')
     else:
         print('Your fitness score is 1 on scale of 5.0')
