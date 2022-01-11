@@ -1,6 +1,6 @@
 # REQUIREMENTS
 
-## Introduction
+## ▶️Introduction
 
 -A fitness tracker,is a device or application for monitoring and tracking things such as distance walked or run,calorie consumption,and hours of sleep.A fitness tracker is calcualted our daily fitness health based on the our activity like sleeping, walking, running, food and workout. these activity measure by tracker. tracker will track our body activity on the basis of our input.
 
@@ -45,27 +45,27 @@
 
 
 
-# 4W's and 1'H
+#▶️ 4W's and 1'H
 
 
-## WHAT
+##▶️ WHAT
 The Fitness tracker used for Body activity per day.
 
 
-## WHERE
+##▶️ WHERE
 The fitness tracker required for the User who put thier activity on the input.
 
-## WHEN
+##▶️ WHEN
 The Fitness tracker serve for daily calories burned,exercises and water and food consumption per day. 
 
-## HOW
+## ▶️HOW
 - To get the diet plan user able to access the program using System or a laptop and put the required data for implement.
 
 
-# Detail requirements
+# ▶️Detail requirements
 
 
-## High Level Requirements
+##▶️ High Level Requirements
 
 | High Level Requirements |	Description | Status          |
 | ------------------------ | ----------- |----------------
@@ -77,7 +77,7 @@ The Fitness tracker serve for daily calories burned,exercises and water and food
 | HLR6 |Check for user login and also check password|Implemented |
 
 
-## Low Level Requirements
+##▶️ Low Level Requirements
 
 
 | Low Level Requirements |	Description | Status |
