@@ -19,17 +19,14 @@
 
 
 
-
 ## Contributors List 
-PS No.   | Name                 |  Github Username   | Features         | Issuess rised      |  Issuess Resolved | No.of Test Cases |  Test case Pass |               
----------|----------------------|--------------------|------------------|--------------------|-------------------|------------------|-----------------|
-40020733 |Nelluru Tejaswini     |Teju546             |                  |                    |                   |                  |                 |  
-40020868 |Shreyashi Sonkar      |siri-07             |                  |                    |                   |                  |                 |
-40020605 |Piyush Vinob Bobade   |piyushbobade        |                  |                    |                   |                  |                 |
-40020606 |Madhumitha S          |Madhumithashanmugam |                  |                    |                   |                  |                 |
-40020608 |Allagadda Nandini     |allagaddanandini    |                  |                    |                   |                  |                 |
-
-
+PS No.   | Name                 |  Github Username   | Features                   | Issuess rised      |  Issuess Resolved | No.of Test Cases |  Test case Pass |               
+---------|----------------------|--------------------|-------------------------------|:--------------------:|:-------------------:|------------------|-----------------|
+40020733 |Nelluru Tejaswini     |Teju546             | Test plan & output ,Report          |                    |                   |                  |                 |  
+40020868 |Shreyashi Sonkar      |siri-07             | Implementation and Images and Video |         1          |                   |                  |                 |
+40020605 |Piyush Vinob Bobade   |piyushbobade        | Requirements and Report             |                    |                   |                  |                 |
+40020606 |Madhumitha S          |Madhumithashanmugam | Requirements and Report             |                    |                   |                  |                 |
+40020608 |Allagadda Nandini     |allagaddanandini    | Design and Report                   |            1       |           1       |                  |                 |
 
 
 
