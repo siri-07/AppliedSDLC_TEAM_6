@@ -58,6 +58,7 @@ The Fitness tracker serve for daily calories burned,exercises and water and food
 - [vscode](https://code.visualstudio.com/) & 
 
 - [DEVC++](https://sourceforge.net/projects/orwelldevcpp/)
+- Pycharm
 
 
 # Detail requirements
