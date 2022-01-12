@@ -66,12 +66,12 @@ The Fitness tracker serve for daily calories burned,exercises and water and food
 
 | High Level Requirements |	Description | Status          |
 | ------------------------ | ----------- |---------------- |
-| HLR1 | Check the user id and Password                                  | In progress |
-| HLR2 |Check functionality of the BMI calculation module                | In progress |
-| HLR3 |Check functionality of the Diet Plan and Calories intake module  | In progress |
-| HLR4 |Check functionality of the Water intake module                   | In progress |
-| HLR5 | Check functionality of the Workout module                       | In progress |
-| HLR6 |Check if the program fetches details of existing Customer        | In progress |
+| HLR1 | Check the user id and Password                                  | Implemented |
+| HLR2 |Check functionality of the BMI calculation module                | Implemented |
+| HLR3 |Check functionality of the Diet Plan and Calories intake module  | Implemented |
+| HLR4 |Check functionality of the Water intake module                   | Implemented |
+| HLR5 | Check functionality of the Workout module                       | Implemented |
+| HLR6 |Check if the program fetches details of existing Customer        | Implemented |
 
 
 ## Low Level Requirements
@@ -79,11 +79,11 @@ The Fitness tracker serve for daily calories burned,exercises and water and food
 
 | Low Level Requirements |	Description | Status |
 | ---------------------- | ------------- |---------------------------------------|
-| LLR1 |Check if Customer is able to choose between Imperial and SI unit system  | In progress |
-| LLR2 |Check if Customer is alerted when height or weight exceeds the limit given  | In progress|
-| LLR3 |Check if Customer falls under correct weight category for BMI index   | In progress|
+| LLR1 |Check if Customer is able to choose between Imperial and SI unit system  | Implemented |
+| LLR2 |Check if Customer is alerted when height or weight exceeds the limit given  | Implemented|
+| LLR3 |Check if Customer falls under correct weight category for BMI index   | Implemented|
 | LLR4 |Check if Customer is able to choose gender    | In progress|
-| LLR5 | Check if Customer is alerted when weight or height exceeds limit  | In progress|
+| LLR5 | Check if Customer is alerted when weight or height exceeds limit  | Implemented|
 
 ## Design
 
