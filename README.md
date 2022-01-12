@@ -26,7 +26,7 @@ PS No.   | Name                 |  Github Username   | Features                 
 40020868 |Shreyashi Sonkar      |siri-07             | Implementation and Images and Video |         1          |                   |                  |                 |
 40020605 |Piyush Vinob Bobade   |piyushbobade        | Requirements and Report             |                    |                   |                  |                 |
 40020606 |Madhumitha S          |Madhumithashanmugam | Requirements and Report             |                    |                   |                  |                 |
-40020608 |Allagadda Nandini     |allagaddanandini    | Design and Report                   |            1       |           1       |                  |                 |
+40020608 |Allagadda Nandini     |allagaddanandini    | Design and Report                   |            1       |           1       |         5         |         5        |
 
 
 
