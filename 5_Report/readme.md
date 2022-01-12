@@ -84,3 +84,12 @@ The Fitness tracker serve for daily calories burned,exercises and water and food
 | LLR3 |Check if Customer falls under correct weight category for BMI index   | In progress|
 | LLR4 |Check if Customer is able to choose gender    | In progress|
 | LLR5 | Check if Customer is alerted when weight or height exceeds limit  | In progress|
+
+## Design
+
+## Structural Diagram
+
+
+![Screenshot (162)](https://user-images.githubusercontent.com/94156658/148817845-7aba92fa-a672-4f3b-b2cd-7c730805c69b.png)
+
+
