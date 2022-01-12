@@ -66,7 +66,7 @@ The Fitness tracker serve for daily calories burned,exercises and water and food
 | ------------------------ | ----------- |---------------- |
 | HLR1 | Check the user id and Password                                  | Implemented |
 | HLR2 |Check functionality of the BMI calculation module                | Implemented |
-| HLR3 |Check functionality of the Diet Plan and Calories intake module  | Implemented |
+| HLR3 |Check functionality of the Diet Plan and Calories intake module  | Not Implemented |
 | HLR4 |Check functionality of the Water intake module                   | Implemented |
 | HLR5 | Check functionality of the Workout module                       | Implemented |
 | HLR6 |Check if the program fetches details of existing Customer        | Implemented |
