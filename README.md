@@ -33,6 +33,6 @@ PS No.   | Name                 |  Github Username   | Features                 
 
 ![](https://img.shields.io/badge/coverage-85-green)
 
-![](https://img.shields.io/badge/passed-30-blue)
+![](https://img.shields.io/badge/passed-100-blue)
 
 
