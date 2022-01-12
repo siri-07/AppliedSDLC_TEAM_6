@@ -55,9 +55,7 @@ The Fitness tracker serve for daily calories burned,exercises and water and food
 - To get the diet plan user able to access the program using System or a laptop and put the required data for implement.
 
 # Software used
-- [vscode](https://code.visualstudio.com/) & 
-
-- [DEVC++](https://sourceforge.net/projects/orwelldevcpp/)
+- vs-code
 - Pycharm
 
 
