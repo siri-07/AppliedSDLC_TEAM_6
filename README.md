@@ -31,12 +31,5 @@ PS No.   | Name                 |  Github Username   | Features                 
 
 # Badges
 
-![](https://img.shields.io/badge/coverage-85-green)
-
-![](https://img.shields.io/badge/passed-100-blue)
-[![Python package](https://github.com/siri-07/AppliedSDLC_TEAM_6/actions/workflows/python-package.yml/badge.svg)](https://github.com/siri-07/AppliedSDLC_TEAM_6/actions/workflows/python-package.yml)
-![Badge](https://api.codiga.io/project/30306/score/svg)
-
-![Badge](https://api.codiga.io/project/30306/status/svg)
 
 
