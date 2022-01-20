@@ -30,6 +30,8 @@ PS No.   | Name                 |  Github Username   | Features                 
 
 
 # Badges
+![Badge](https://api.codiga.io/project/30306/score/svg)
 
+![Badge](https://api.codiga.io/project/30306/status/svg)
 
 
