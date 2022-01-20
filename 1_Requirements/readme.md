@@ -48,14 +48,14 @@
 #▶️ 4W's and 1'H
 
 
-##▶️ WHAT
+#▶️ WHAT
 The Fitness tracker used for Body activity per day.
 
 
-##▶️ WHERE
+#▶️ WHERE
 The fitness tracker required for the User who put thier activity on the input.
 
-##▶️ WHEN
+#▶️ WHEN
 The Fitness tracker serve for daily calories burned,exercises and water and food consumption per day. 
 
 ## ▶️HOW
