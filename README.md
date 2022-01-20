@@ -22,11 +22,11 @@
 ## Contributors List 
 PS No.   | Name                 |  Github Username   | Features                   | Issuess rised      |  Issuess Resolved | No.of Test Cases |  Test case Pass |               
 ---------|----------------------|--------------------|-------------------------------|:--------------------:|:-------------------:|:------------------:|:-----------------:|
-40020733 |Nelluru Tejaswini     |Teju546             | Test plan & output ,Report          |         1          |         1         |          5        |           5      |  
-40020868 |Shreyashi Sonkar      |siri-07             | Implementation and Images and Video |         1          |         1         |         5        |       5         |
-40020605 |Piyush Vinob Bobade   |piyushbobade        | Requirements and Report             |         1          |         1         |           5       |          5       |
-40020606 |Madhumitha S          |Madhumithashanmugam | Requirements and Report             |         1          |         1         |            5      |         5        |
-40020608 |Allagadda Nandini     |allagaddanandini    | Design and Report                   |         1          |         1         |         5        |         5       |
+40020733 |Nelluru Tejaswini     |Teju546             | Test plan & output ,Report          |         1          |         1         |         5        |        5          |  
+40020868 |Shreyashi Sonkar      |siri-07             | Implementation and Images and Video |         1          |         1         |         5        |        5          |
+40020605 |Piyush Vinob Bobade   |piyushbobade        | Requirements and Report             |         1          |         1         |         5        |        5          |
+40020611 |Suraj Nikhade         |Suraj23N30          | Requirements and Report             |         1          |         1         |         5        |        5          |
+40020608 |Allagadda Nandini     |allagaddanandini    | Design and Report                   |         1          |         1         |         5        |        5          |
 
 
 # Badges
