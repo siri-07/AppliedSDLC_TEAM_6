@@ -37,4 +37,5 @@ PS No.   | Name                 |  Github Username   | Features                 
 [![Python package](https://github.com/siri-07/AppliedSDLC_TEAM_6/actions/workflows/python-package.yml/badge.svg)](https://github.com/siri-07/AppliedSDLC_TEAM_6/actions/workflows/python-package.yml)
 
 [![Python application](https://github.com/siri-07/AppliedSDLC_TEAM_6/actions/workflows/python-app.yml/badge.svg)](https://github.com/siri-07/AppliedSDLC_TEAM_6/actions/workflows/python-app.yml)
+[![.github/workflows/pylint.yml](https://github.com/siri-07/AppliedSDLC_TEAM_6/actions/workflows/pylint.yml/badge.svg)](https://github.com/siri-07/AppliedSDLC_TEAM_6/actions/workflows/pylint.yml)
 
