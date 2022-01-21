@@ -7,4 +7,4 @@
  | HLR3 |  Tracke of WaterIntake | I/P from user Weight,Age =58,23                     | Quantity of Water to take  | 5.34L | Sucess |
  | HLR4 | Calculate BMR value | I/P from user height,weight,age & gender=5.2,58,23,F   | BMR Calculated value         | 824.68          | Success   |
  | HLR5 | Calculate BMI value | I/P'from user height & weight = 5.2,58                 | Body Mass value & level of weight | Body Mass = 50173.25864 & Obesity | Success |
- 
+ | HLR6 | LOGIN ID / Password | users details other than in login.txt file             | nandhu/ NAND12    | INVALID PASSWORD | failed |
