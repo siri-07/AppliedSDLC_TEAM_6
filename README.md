@@ -37,6 +37,7 @@ PS No.   | Name                 |  Github Username   | Features                 
 ![Badge](https://api.codiga.io/project/30306/status/svg)
 
 [![Python package](https://github.com/siri-07/AppliedSDLC_TEAM_6/actions/workflows/python-package.yml/badge.svg)](https://github.com/siri-07/AppliedSDLC_TEAM_6/actions/workflows/python-package.yml)
+[![Python package](https://github.com/siri-07/AppliedSDLC_TEAM_6/actions/workflows/python-package.yml/badge.svg)](https://github.com/siri-07/AppliedSDLC_TEAM_6/actions/workflows/python-package.yml)
 
 
 
